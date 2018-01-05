@@ -9,7 +9,8 @@ This tool is originally based on Microsoft: https://support.microsoft.com/en-us/
 This solution has been tested successfully using Python 3.6.3 & PowerShell version 5.1.
 
 # How do I use this?
-- Press Numner 1, 2, 3 & 4 in sequence to see the results.
+- Run the python code or download the executable from the releases section and run it as an administrator user.
+- Press Number 1, 2, 3 & 4 in sequence to see the results.
 - Press 1: Sets the execution policy to unrestricted.
 - Press 2: Imports necessary PowerShell modules
 - Press 3: Installs Spectre related modules within PowerShell
