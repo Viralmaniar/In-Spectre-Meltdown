@@ -20,5 +20,7 @@ This solution has been tested successfully using Python 3.6.3 & PowerShell versi
 # Do I need to run the executable as administrator?
 - Yes, Right click on the "In-Spectre_meltdown.exe" and run as administrator to get the results.
 
-
+# Questions?
+Twitter: https://twitter.com/maniarviral 
+LinkedIn: https://au.linkedin.com/in/viralmaniar
 
