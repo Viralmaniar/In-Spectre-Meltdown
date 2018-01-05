@@ -4,3 +4,20 @@ This tool allows to check speculative execution side-channel attacks that affect
 This tool is originally based on Microsoft: https://support.microsoft.com/en-us/help/4073119/protect-against-speculative-execution-side-channel-vulnerabilities-in 
 
 ![image](https://user-images.githubusercontent.com/3501170/34603779-710a93b6-f259-11e7-9707-f2145e106e46.png)
+
+# Please note:
+This solution has been tested successfully using Python 3.6.3 & PowerShell version 5.1.
+
+# How do I use this?
+- Press Numner 1, 2, 3 & 4 in sequence to see the results.
+- Press 1: Sets the execution policy to unrestricted.
+- Press 2: Imports necessary PowerShell modules
+- Press 3: Installs Spectre related modules within PowerShell
+- Press 4: Inspects control settings for Spectre & Meltdown and displays result
+- Press 5: Exit from the program
+
+# Do I need to run the executable as administrator?
+- Yes, Right click on the "In-Spectre_meltdown.exe" and run as administrator to get the results.
+
+
+
